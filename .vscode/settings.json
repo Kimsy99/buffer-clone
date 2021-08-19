@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+	"[erb]": {
+		"editor.formatOnSave": true,
+		// "editor.formatOnSaveTimeout": 5000,
+	},
+	// "ruby.rubocop.executePath": "",
+	// "ruby.format": "rubocop",
+}
